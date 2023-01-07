@@ -59,9 +59,9 @@ h1 {
 /*bloque2*/
 
 .block-2 {
-  height: 300vh;
+  height: 550vh;
   width: 100%;
-  border: 3px solid rgb(60, 255, 0);
+  border: 3px solid rgb(26, 26, 26);
   background-color: rgb(26, 26, 26);
 }
 .main-title > strong {
@@ -76,9 +76,8 @@ h1 {
 /*imagenes de carro*/
 /*container1*/
 .container1{
-    height: 90vh;
+    height: 105vh;
     width: 28%;
-    border: 2px solid red;
     margin-left: 6%;
     margin-top: 17%;
 }
@@ -90,20 +89,98 @@ h1 {
     width: 100%;
     height: 15%;
     margin-top: -1.5%;
-    background-color: rgb(45, 134, 45);
+    background-color: #315B1B;
 }
 .white-box1{
     width: 100%;
     height: 45.5%;
     background-color: white;
 }
+.title-chevrolet1 > b{
+    color: white;
+    font-size: 50px;
+    position: absolute;
+    top: 201%;
+    padding-left: 25px;
+}
+.circle1-1{
+    width: 28px;
+    height: 28px;
+    border-radius: 50px;
+    background-color: #90F45B;
+    position: absolute;
+    margin-top: 2.5%;
+    margin-left: 2.6%;
+}
+.circle1-2{
+    width: 28px;
+    height: 28px;
+    border-radius: 50px;
+    background-color: #90F45B;
+    position: absolute;
+    margin-top: 6%;
+    margin-left: 2.6%;
+}
+.circle1-3{
+    width: 28px;
+    height: 28px;
+    border-radius: 50px;
+    background-color: #90F45B;
+    position: absolute;
+    margin-top: 9.5%;
+    margin-left: 2.6%;
+}
+.r1-1 > p{ 
+    margin-left: 80px;
+    font-size: 38px;
+    position: absolute;
+    margin-top: 30px;
+}
+.r1-2 > p{ 
+    margin-left: 80px;
+    font-size: 38px;
+    position: absolute;
+    margin-top: 80px;
+}
+.r1-3 > p{ 
+    margin-left: 80px;
+    font-size: 38px;
+    position: absolute;
+    margin-top: 135px;
+}
+.weight1 > b{
+    margin-left: 10%;
+    position: absolute;
+    margin-top: 13%;
+    font-size: 30px;
+    color: #CC5328;
+}
+.rent1{
+    width: 23%;
+    height: 8%;
+    background-color: #CC5328;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 17%;
+    margin-left: 2.3%;
+}
+.rent1 > b{
+    color: white;
+    padding-left: 115px;
+    font-size: 30px;
+    position: absolute;
+    padding-top: 7px;
+}
+
+
+
+
 /*container2*/
 .container2{
-    height: 90vh;
+    height: 105vh;
     width: 28%;
-    border: 2px solid red;
     margin-left: 36%;
-    margin-top: -43.5%;    
+    margin-top: -50.7%;    
 }
 .container2 > img{
     width: 100%;
@@ -113,22 +190,103 @@ h1 {
     width: 100%;
     height: 15%;
     margin-top: -1.5%;
-    background-color: rgb(45, 134, 45);
+    background-color: #315B1B;
 }
 .white-box2{
     width: 100%;
     height: 45.5%;
     background-color: white;
 }
+.title-chevrolet2 > b{
+    color: white;
+    font-size: 50px;
+    position: absolute;
+    top: 201%;
+    padding-left: 25px;
+}
+.circle2-1{
+    width: 28px;
+    height: 28px;
+    border-radius: 50px;
+    background-color: #90F45B;
+    position: absolute;
+    margin-top: 2.5%;
+    margin-left: 2.6%;
+}
+.circle2-2{
+    width: 28px;
+    height: 28px;
+    border-radius: 50px;
+    background-color: #90F45B;
+    position: absolute;
+    margin-top: 6%;
+    margin-left: 2.6%;
+}
+.circle2-3{
+    width: 28px;
+    height: 28px;
+    border-radius: 50px;
+    background-color: #90F45B;
+    position: absolute;
+    margin-top: 9.5%;
+    margin-left: 2.6%;
+}
+.r2-1 > p{ 
+    margin-left: 80px;
+    font-size: 38px;
+    position: absolute;
+    margin-top: 30px;
+}
+.r2-2 > p{ 
+    margin-left: 80px;
+    font-size: 38px;
+    position: absolute;
+    margin-top: 80px;
+}
+.r2-3 > p{ 
+    margin-left: 80px;
+    font-size: 38px;
+    position: absolute;
+    margin-top: 135px;
+}
+.weight2 > b{
+    margin-left: 10%;
+    position: absolute;
+    margin-top: 13%;
+    font-size: 30px;
+    color: #CC5328;
+}
+.rent2{
+    width: 23%;
+    height: 8%;
+    background-color: #CC5328;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 17%;
+    margin-left: 2.3%;
+}
+.rent2 > b{
+    color: white;
+    padding-left: 115px;
+    font-size: 30px;
+    position: absolute;
+    padding-top: 7px;
+}
+
+
+
+
+
+
+
 
 
 /*container3*/
 .container3{
-    height: 90vh;
+    height: 105vh;
     width: 28%;
-    border: 2px solid red;
     margin-left: 66%;
-    margin-top: -43.5%;    
+    margin-top: -50.7%;    
 }
 .container3 > img{
     width: 100%;
@@ -138,19 +296,98 @@ h1 {
     width: 100%;
     height: 15%;
     margin-top: -1.5%;
-    background-color: rgb(45, 134, 45);
+    background-color: #315B1B;
 }
 .white-box3{
     width: 100%;
     height: 45.5%;
     background-color: white;
 }
+.title-chevrolet3 > b{
+    color: white;
+    font-size: 50px;
+    position: absolute;
+    top: 201%;
+    padding-left: 25px;
+}
+.circle3-1{
+    width: 28px;
+    height: 28px;
+    border-radius: 50px;
+    background-color: #90F45B;
+    position: absolute;
+    margin-top: 2.5%;
+    margin-left: 2.6%;
+}
+.circle3-2{
+    width: 28px;
+    height: 28px;
+    border-radius: 50px;
+    background-color: #90F45B;
+    position: absolute;
+    margin-top: 6%;
+    margin-left: 2.6%;
+}
+.circle3-3{
+    width: 28px;
+    height: 28px;
+    border-radius: 50px;
+    background-color: #90F45B;
+    position: absolute;
+    margin-top: 9.5%;
+    margin-left: 2.6%;
+}
+.r3-1 > p{ 
+    margin-left: 80px;
+    font-size: 38px;
+    position: absolute;
+    margin-top: 30px;
+}
+.r3-2 > p{ 
+    margin-left: 80px;
+    font-size: 38px;
+    position: absolute;
+    margin-top: 80px;
+}
+.r3-3 > p{ 
+    margin-left: 80px;
+    font-size: 38px;
+    position: absolute;
+    margin-top: 135px;
+}
+.weight3 > b{
+    margin-left: 10%;
+    position: absolute;
+    margin-top: 13%;
+    font-size: 30px;
+    color: #CC5328;
+}
+.rent3{
+    width: 23%;
+    height: 8%;
+    background-color: #CC5328;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 17%;
+    margin-left: 2.3%;
+}
+.rent3 > b{
+    color: white;
+    padding-left: 115px;
+    font-size: 30px;
+    position: absolute;
+    padding-top: 7px;
+}
+
+
+
+
+
 
 /*container4*/
 .container4{
-    height: 90vh;
+    height: 105vh;
     width: 28%;
-    border: 2px solid red;
     margin-left: 6%;
     margin-top: 2%;
 }
@@ -162,21 +399,100 @@ h1 {
     width: 100%;
     height: 15%;
     margin-top: -1.5%;
-    background-color: rgb(45, 134, 45);
+    background-color: #315B1B;
 }
 .white-box4{
     width: 100%;
     height: 45.5%;
     background-color: white;
 }
+.title-chevrolet4 > b{
+    color: white;
+    font-size: 50px;
+    position: absolute;
+    top: 313%;
+    padding-left: 25px;
+}
+.circle4-1{
+    width: 28px;
+    height: 28px;
+    border-radius: 50px;
+    background-color: #90F45B;
+    position: absolute;
+    margin-top: 2.5%;
+    margin-left: 2.6%;
+}
+.circle4-2{
+    width: 28px;
+    height: 28px;
+    border-radius: 50px;
+    background-color: #90F45B;
+    position: absolute;
+    margin-top: 6%;
+    margin-left: 2.6%;
+}
+.circle4-3{
+    width: 28px;
+    height: 28px;
+    border-radius: 50px;
+    background-color: #90F45B;
+    position: absolute;
+    margin-top: 9.5%;
+    margin-left: 2.6%;
+}
+.r4-1 > p{ 
+    margin-left: 80px;
+    font-size: 38px;
+    position: absolute;
+    margin-top: 30px;
+}
+.r4-2 > p{ 
+    margin-left: 80px;
+    font-size: 38px;
+    position: absolute;
+    margin-top: 80px;
+}
+.r4-3 > p{ 
+    margin-left: 80px;
+    font-size: 38px;
+    position: absolute;
+    margin-top: 135px;
+}
+.weight4 > b{
+    margin-left: 10%;
+    position: absolute;
+    margin-top: 13%;
+    font-size: 30px;
+    color: #CC5328;
+}
+.rent4{
+    width: 23%;
+    height: 8%;
+    background-color: #CC5328;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 17%;
+    margin-left: 2.3%;
+}
+.rent4 > b{
+    color: white;
+    padding-left: 115px;
+    font-size: 30px;
+    position: absolute;
+    padding-top: 7px;
+}
+
+
+
+
+
 
 /*container5*/
 .container5{
-    height: 90vh;
+    height: 105vh;
     width: 28%;
-    border: 2px solid red;
     margin-left: 36%;
-    margin-top: -43.5%;    
+    margin-top: -50.7%;    
 }
 .container5 > img{
     width: 100%;
@@ -186,21 +502,98 @@ h1 {
     width: 100%;
     height: 15%;
     margin-top: -1.5%;
-    background-color: rgb(45, 134, 45);
+    background-color: #315B1B;
 }
 .white-box5{
     width: 100%;
     height: 45.5%;
     background-color: white;
 }
+.title-chevrolet5 > b{
+    color: white;
+    font-size: 50px;
+    position: absolute;
+    top: 313%;
+    padding-left: 25px;
+}
+.circle5-1{
+    width: 28px;
+    height: 28px;
+    border-radius: 50px;
+    background-color: #90F45B;
+    position: absolute;
+    margin-top: 2.5%;
+    margin-left: 2.6%;
+}
+.circle5-2{
+    width: 28px;
+    height: 28px;
+    border-radius: 50px;
+    background-color: #90F45B;
+    position: absolute;
+    margin-top: 6%;
+    margin-left: 2.6%;
+}
+.circle5-3{
+    width: 28px;
+    height: 28px;
+    border-radius: 50px;
+    background-color: #90F45B;
+    position: absolute;
+    margin-top: 9.5%;
+    margin-left: 2.6%;
+}
+.r5-1 > p{ 
+    margin-left: 80px;
+    font-size: 38px;
+    position: absolute;
+    margin-top: 30px;
+}
+.r5-2 > p{ 
+    margin-left: 80px;
+    font-size: 38px;
+    position: absolute;
+    margin-top: 80px;
+}
+.r5-3 > p{ 
+    margin-left: 80px;
+    font-size: 38px;
+    position: absolute;
+    margin-top: 135px;
+}
+.weight5 > b{
+    margin-left: 10%;
+    position: absolute;
+    margin-top: 13%;
+    font-size: 30px;
+    color: #CC5328;
+}
+.rent5{
+    width: 23%;
+    height: 8%;
+    background-color:#CC5328;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 17%;
+    margin-left: 2.3%;
+}
+.rent5 > b{
+    color: white;
+    padding-left: 115px;
+    font-size: 30px;
+    position: absolute;
+    padding-top: 7px;
+}
+
+
+
 
 /*container6*/
 .container6{
-    height: 90vh;
+    height: 105vh;
     width: 28%;
-    border: 2px solid red;
     margin-left: 66%;
-    margin-top: -43.5%;    
+    margin-top: -50.7%;    
 }
 .container6 > img{
     width: 100%;
@@ -210,10 +603,328 @@ h1 {
     width: 100%;
     height: 15%;
     margin-top: -1.5%;
-    background-color: rgb(45, 134, 45);
+    background-color: #315B1B;
 }
 .white-box6{
     width: 100%;
     height: 45.5%;
     background-color: white;
 }
+.title-chevrolet6 > b{
+    color: white;
+    font-size: 50px;
+    position: absolute;
+    top: 313%;
+    padding-left: 25px;
+}
+.circle6-1{
+    width: 28px;
+    height: 28px;
+    border-radius: 50px;
+    background-color: #90F45B;
+    position: absolute;
+    margin-top: 2.5%;
+    margin-left: 2.6%;
+}
+.circle6-2{
+    width: 28px;
+    height: 28px;
+    border-radius: 50px;
+    background-color: #90F45B;
+    position: absolute;
+    margin-top: 6%;
+    margin-left: 2.6%;
+}
+.circle6-3{
+    width: 28px;
+    height: 28px;
+    border-radius: 50px;
+    background-color: #90F45B;
+    position: absolute;
+    margin-top: 9.5%;
+    margin-left: 2.6%;
+}
+.r6-1 > p{ 
+    margin-left: 80px;
+    font-size: 38px;
+    position: absolute;
+    margin-top: 30px;
+}
+.r6-2 > p{ 
+    margin-left: 80px;
+    font-size: 38px;
+    position: absolute;
+    margin-top: 80px;
+}
+.r6-3 > p{ 
+    margin-left: 80px;
+    font-size: 38px;
+    position: absolute;
+    margin-top: 135px;
+}
+.weight6 > b{
+    margin-left: 10%;
+    position: absolute;
+    margin-top: 13%;
+    font-size: 30px;
+    color: rgb(255, 133, 51);
+}
+.rent6{
+    width: 23%;
+    height: 8%;
+    background-color: #CC5328;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 17%;
+    margin-left: 2.3%;
+}
+.rent6 > b{
+    color: white;
+    padding-left: 115px;
+    font-size: 30px;
+    position: absolute;
+    padding-top: 7px;
+}
+
+
+/*bloque 3*/
+
+
+.block-3{
+    height: 150vh;
+    min-width: 100%;
+}
+.brown{
+    height: 90%;
+    width: 100%;
+    margin-top: 6%;
+    background-color: #710707;
+    clip-path: polygon(100% 0%, 100% 51%, 60% 60%, 28% 66%, 0 71%, 0 20%);
+}
+.paragraph > strong{
+    color: white;
+    position: absolute;
+    margin-top: -37%;
+    font-size: 50px;
+    font-weight: 50;
+    line-height: 55px;
+    margin-left: 7%;
+    letter-spacing: 3px;
+}
+.auto-circle > img{
+    height: 72%;
+    width: 34%;
+    position: absolute;
+    margin-top: -37%;
+    margin-left: 61%;
+}
+.title-rent > h1{
+    color: white;
+    margin-top: -15%;
+    margin-left: 30%;
+    font-size: 60px;
+}
+.title-rent > h2{
+    color: white;
+    margin-left: 27%;
+    margin-top: 3%;
+    font-size: 27px ;
+    letter-spacing: 1px;
+}
+
+
+/*container7*/
+
+.container7{
+    height: 105vh;
+    width: 28%;
+    margin-left: 8%;
+}
+.container7 > img{
+    width: 100%;
+    height: 40%;
+}
+.green-rectangle7{
+    width: 100%;
+    height: 15%;
+    margin-top: -1.5%;
+    background-color: #315B1B;
+}
+.white-box7{
+    width: 100%;
+    height: 45.5%;
+    background-color: white;
+}
+.title-chevrolet7 > b{
+    color: white;
+    font-size: 50px;
+    position: absolute;
+    top: 575%;
+    padding-left: 25px;
+}
+.circle7-1{
+    width: 28px;
+    height: 28px;
+    border-radius: 50px;
+    background-color: #90F45B;
+    position: absolute;
+    margin-top: 2.5%;
+    margin-left: 2.6%;
+}
+.circle7-2{
+    width: 28px;
+    height: 28px;
+    border-radius: 50px;
+    background-color: #90F45B;
+    position: absolute;
+    margin-top: 6%;
+    margin-left: 2.6%;
+}
+.circle7-3{
+    width: 28px;
+    height: 28px;
+    border-radius: 50px;
+    background-color: #90F45B;
+    position: absolute;
+    margin-top: 9.5%;
+    margin-left: 2.6%;
+}
+.r7-1 > p{ 
+    margin-left: 80px;
+    font-size: 38px;
+    position: absolute;
+    margin-top: 30px;
+}
+.r7-2 > p{ 
+    margin-left: 80px;
+    font-size: 38px;
+    position: absolute;
+    margin-top: 80px;
+}
+.r7-3 > p{ 
+    margin-left: 80px;
+    font-size: 38px;
+    position: absolute;
+    margin-top: 135px;
+}
+.weight7 > b{
+    margin-left: 10%;
+    position: absolute;
+    margin-top: 13%;
+    font-size: 30px;
+    color: #CC5328;
+}
+.rent7{
+    width: 23%;
+    height: 8%;
+    background-color: #CC5328;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 17%;
+    margin-left: 2.3%;
+}
+.rent7 > b{
+    color: white;
+    padding-left: 115px;
+    font-size: 30px;
+    position: absolute;
+    padding-top: 7px;
+}
+
+
+/*formulario*/
+.data{
+    height: 93vh;
+    width: 45%;
+    margin-left: 46.7%;
+    margin-top: -45%;   
+}
+.email > strong{
+    color: white;
+    font-size: 40px;
+    line-height: 105px;
+}
+.box1{
+    width: 80%;
+    height: 7.5vh;
+    background-color: white;
+    margin-left: 20%;
+    margin-top: -11%;
+}
+.name > strong{
+    color: white;
+    font-size: 40px;
+    line-height: 105px;
+}
+.box2{
+    width: 72%;
+    height: 7.5vh;
+    background-color: white;
+    margin-left: 28%;
+    margin-top: -11%;
+}
+.phone > strong{
+    color: white;
+    font-size: 40px;
+    line-height: 105px;
+}
+.box3{
+    width: 72%;
+    height: 7.5vh;
+    background-color: white;
+    margin-left: 28%;
+    margin-top: -11%;
+}
+.since > strong{
+    color: white;
+    font-size: 40px;
+    line-height: 105px;
+}
+.box4{
+    width: 27%;
+    height: 7.5vh;
+    background-color: white;
+    margin-left: 20%;
+    margin-top: -11%;
+}
+.until > strong{
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    margin-left: 24%;
+}
+.box5{
+    width: 27%;
+    height: 7.5vh;
+    background-color: white;
+    margin-left: 73%;
+    margin-top: -8%;
+}
+
+.title-total > strong{
+    color: white;
+    position: absolute;
+    margin-top: 8%;
+    margin-left: 11%;
+    font-size: 40px;
+}
+.box-pay{
+    width: 50%;
+    height: 10%;
+    background-color: #CC5328;
+    margin-top: 37%;
+    border-radius: 10px;
+    margin-left: 35%;
+}
+.box-pay > strong{
+    color: white;
+    margin-left: 7%;
+    font-size: 35px;
+    position: absolute;
+    margin-top: 9px;
+
+}
+
+
+
+
