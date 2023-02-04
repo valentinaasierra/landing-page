@@ -3,3 +3,398 @@
     margin: 0;
     padding: 0;
 }
+.block-1{
+    height: 100vh;
+    width: 100%;
+    border: 3px solid red;
+}
+.image > img{
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+}
+.background{
+    width: 78%;
+    height: 100vh;
+    background-color: sandybrown;
+    opacity: 0.7;
+}
+.title > strong{
+    color: white;
+    position: absolute;
+    left: 7.5%;
+    font-size: 100px;
+    bottom: 62%;
+}
+.title1 > strong{
+    color: white;
+    position: absolute;
+    left: 7.5%;
+    font-size: 100px;
+    bottom: 44%; 
+}
+.black-rectangle{
+    width: 45%;
+    height: 12%;
+    position: absolute;
+    background-color: black;
+    bottom: 26%;
+    left: 7.5%;
+}
+h1{
+    color: white;
+    padding-top: 20px;
+    font-size: 28px;
+    padding-left: 30px;
+}
+.container{
+    width: 62%;
+    height: 38vh;
+    margin-left: 120%;
+    margin-top: -50%;
+}
+.box1{
+    width: 100%;
+    height: 23%;
+    background-color: white;
+}
+.box1 > strong{
+    font-size: 35px;
+    position: absolute;
+    padding-top: 1.5%;
+    padding-left: 2%;
+}
+.box2{
+    width: 100%;
+    height: 23%;
+    background-color: white;
+    margin-top: 8%;
+}
+.box2 > strong{
+    font-size: 35px;
+    position: absolute;
+    padding-top: 1.5%;
+    padding-left: 2%;
+}
+.enter{
+    width: 100%;
+    height: 23%;
+    background-color: #CC5328;
+    margin-top: 6%;
+    border-radius: 10px;
+}
+.enter > strong{
+    color: white;
+    font-size: 36px;
+    position: absolute;
+    margin-left: 20%;
+    margin-top: 1%;
+}
+/*bloque2*/
+.block-2{
+    height: 140vh;
+    width: 100%;
+    border: 3px solid red;
+    background-color: #FAB78A;
+}
+.buggy{
+    height: 12%;
+    width: 100%;
+    background-color: #DA7630;
+}
+.buggy > h1{
+    font-size: 65px;
+    padding-top: 28px;
+    padding-left: 70px;
+}
+.buggy > h2{
+    padding-left: 80%;
+    color: white;
+    font-size: 45px;
+    margin-top: -5%;
+}
+.title-list{
+    padding-top: 6%;
+    padding-left: 4%;
+    font-size: 36px;
+}
+.new{
+    width: 11.2%;
+    height: 6%;
+    background-color: #CC5328;
+    margin-left: 31%;
+    margin-top: -3.8%;
+    border-radius: 13px;
+}
+.new > h3{
+    color: white;
+    font-size: 38px;
+    padding-left: 30px;
+    padding-top: 10.5px;
+}
+.container2{
+    width: 100%;
+    height: 30%;
+}
+.id{
+    font-size: 46px;
+    margin-left: 4%;
+    margin-top: 2.6%;
+    font-weight: 600;
+    line-height: 90px;
+    
+}
+.x-1-1{
+    font-weight: 200;
+    margin-top: -3px;
+    line-height: 90px;
+}
+.x-1-2{
+    font-weight: 200;
+}
+
+
+.marca{
+    font-size: 46px;
+    margin-left: 21%;
+    margin-top: -17.7%;
+    font-weight: 600;
+    line-height: 90px;
+}
+.x-2-1{
+    font-weight: 200;
+    margin-top: -3px;
+    line-height: 90px;
+}
+.x-2-2{
+    font-weight: 200;
+}
+
+
+
+
+
+.puertas{
+    font-size: 46px;
+    margin-left: 39%;
+    margin-top: -17.7%;
+    font-weight: 600;
+    line-height: 90px;
+}
+.x-3-1{
+    font-weight: 200;
+    margin-top: -3px;
+    line-height: 90px;
+}
+.x-3-2{
+    font-weight: 200;
+}
+
+
+
+
+
+.maletas{
+    font-size: 46px;
+    margin-left: 57%;
+    margin-top: -17.7%;
+    font-weight: 600;
+    line-height: 90px;
+}
+.x-4-1{
+    font-weight: 200;
+    margin-top: -3px;
+    line-height: 90px;
+}
+.x-4-2{
+    font-weight: 200;
+}
+
+
+.acciones{
+    margin-left: 78%;
+    font-size: 46px;
+    font-weight: 600;
+    margin-top: -16.6%;
+
+}
+
+
+
+.editar > b{
+    color: white;
+    padding-left: 25px;
+    position: absolute;
+    font-size: 23px;
+    margin-top: 15px;
+}
+.editar2 > b{
+    color: white;
+    padding-left: 25px;
+    position: absolute;
+    font-size: 23px;
+    margin-top: 15px;
+}
+.eliminar > b{
+    color: white;
+    padding-left: 20px;
+    position: absolute;
+    font-size: 23px;
+    margin-top: 15px;
+}
+.eliminar2 > b{
+    color: white;
+    padding-left: 20px;
+    position: absolute;
+    font-size: 23px;
+    margin-top: 15px;
+}
+
+
+
+
+
+
+
+.eliminar{
+    width: 8.5%;
+    height: 8%;
+    background-color: #CC5328;
+    position: absolute;
+    margin-left: 86%;
+    margin-top: 2%;
+    border-radius: 13px;
+}
+
+.eliminar2{
+    width: 8.5%;
+    height: 8%;
+    position: absolute;
+    background-color: #CC5328;
+    margin-left: 86%;
+    margin-top: 7.5%;
+    border-radius: 13px;
+}
+
+
+
+.editar{
+    width: 7.5%;
+    height: 8%;
+    background-color: #CC5328;
+    position: absolute;
+    margin-left: 77%;
+    margin-top: 2%;
+    border-radius: 13px;
+}
+.editar2{
+    width: 7.5%;
+    height: 8%;
+    position: absolute;
+    background-color: #CC5328;
+    margin-left: 77%;
+    margin-top: 7.5%;
+    border-radius: 13px;
+}
+.capa{
+    height: 140vh;
+    width: 100%;
+    background-color: rgb(88, 85, 85);
+    opacity: 0.7;
+    margin-top: -41.3%;
+
+}
+.form{
+    width: 77%;
+    height: 100vh;
+    position: absolute;
+    background-color: white;
+    top: 267.5%;
+    left: 11.5%;
+}
+.title-new > b{
+    padding-left: 40%;
+    position: absolute;
+    padding-top: 5%;
+    font-size: 41px;
+}
+.caja{
+    height: 50vh;
+    width: 31%;
+    
+    margin-top: 15%;
+    margin-left: 18%;
+    position: absolute;
+}
+.marcaa > b{
+
+    font-size: 35px;
+    line-height: 80px;
+}
+.n-puertas > b{
+    font-size: 35px;
+    line-height: 100px;
+}
+.n-maletas > b{
+    font-size: 35px;
+    line-height: 100px;
+}
+.imagen > b{
+    font-size: 35px;
+    line-height: 90px;
+}
+
+
+.caja2{
+    height: 50vh;
+    width: 32%;
+    
+    margin-top: 15%;
+    margin-left: 52%;
+    position: absolute;
+}
+.rectangle1{
+    width: 100%;
+    height: 18.5%;
+    margin-top: 3%;
+    border: 2px solid rgb(253, 146, 6);
+}
+.rectangle2{
+    width: 100%;
+    height: 18.5%;
+    margin-top: 6%;
+    border: 2px solid rgb(253, 146, 6);
+}
+.rectangle3{
+    width: 100%;
+    height: 18.5%;
+    margin-top: 10%;
+    border: 2px solid rgb(253, 146, 6);
+}
+.rectangle4{
+    width: 100%;
+    height: 18.5%;
+    margin-top: 9%;
+    border: 2px solid rgb(253, 146, 6);
+}
+
+
+.agregar{
+    width: 35%;
+    height: 15%;
+    background-color: #CC5328;
+    margin-left: 65%;
+    margin-top: 10%;
+    border-radius: 10px;
+
+}
+.agregar > b{
+    color: white;
+    font-size: 25px;
+    position: absolute;
+    padding-top: 12px;
+    padding-left: 20px;
+}
+
+
+
