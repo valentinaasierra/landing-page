@@ -50,7 +50,6 @@ h1{
 .container{
     width: 62%;
     height: 38vh;
-    border: 2px solid rgb(10, 248, 236);
     margin-left: 120%;
     margin-top: -50%;
 }
@@ -93,19 +92,19 @@ h1{
 }
 /*bloque2*/
 .block-2{
-    height: 180vh;
+    height: 140vh;
     width: 100%;
     border: 3px solid red;
     background-color: #FAB78A;
 }
 .buggy{
-    height: 9%;
+    height: 12%;
     width: 100%;
     background-color: #DA7630;
 }
 .buggy > h1{
     font-size: 65px;
-    padding-top: 35px;
+    padding-top: 28px;
     padding-left: 70px;
 }
 .buggy > h2{
@@ -116,14 +115,14 @@ h1{
 }
 .title-list{
     padding-top: 6%;
-    padding-left: 5.5%;
+    padding-left: 4%;
     font-size: 36px;
 }
 .new{
     width: 11.2%;
-    height: 5%;
+    height: 6%;
     background-color: #CC5328;
-    margin-left: 33%;
+    margin-left: 31%;
     margin-top: -3.8%;
     border-radius: 13px;
 }
@@ -297,7 +296,105 @@ h1{
     margin-top: 7.5%;
     border-radius: 13px;
 }
+.capa{
+    height: 140vh;
+    width: 100%;
+    background-color: rgb(88, 85, 85);
+    opacity: 0.7;
+    margin-top: -41.3%;
 
+}
+.form{
+    width: 77%;
+    height: 100vh;
+    position: absolute;
+    background-color: white;
+    top: 267.5%;
+    left: 11.5%;
+}
+.title-new > b{
+    padding-left: 40%;
+    position: absolute;
+    padding-top: 5%;
+    font-size: 41px;
+}
+.caja{
+    height: 50vh;
+    width: 31%;
+    
+    margin-top: 15%;
+    margin-left: 18%;
+    position: absolute;
+}
+.marcaa > b{
+
+    font-size: 35px;
+    line-height: 80px;
+}
+.n-puertas > b{
+    font-size: 35px;
+    line-height: 100px;
+}
+.n-maletas > b{
+    font-size: 35px;
+    line-height: 100px;
+}
+.imagen > b{
+    font-size: 35px;
+    line-height: 90px;
+}
+
+
+.caja2{
+    height: 50vh;
+    width: 32%;
+    
+    margin-top: 15%;
+    margin-left: 52%;
+    position: absolute;
+}
+.rectangle1{
+    width: 100%;
+    height: 18.5%;
+    margin-top: 3%;
+    border: 2px solid rgb(253, 146, 6);
+}
+.rectangle2{
+    width: 100%;
+    height: 18.5%;
+    margin-top: 6%;
+    border: 2px solid rgb(253, 146, 6);
+}
+.rectangle3{
+    width: 100%;
+    height: 18.5%;
+    margin-top: 10%;
+    border: 2px solid rgb(253, 146, 6);
+}
+.rectangle4{
+    width: 100%;
+    height: 18.5%;
+    margin-top: 9%;
+    border: 2px solid rgb(253, 146, 6);
+}
+
+
+.agregar{
+    width: 35%;
+    height: 15%;
+    background-color: #CC5328;
+    margin-left: 65%;
+    margin-top: 10%;
+    border-radius: 10px;
+
+}
+.agregar > b{
+    color: white;
+    font-size: 25px;
+    position: absolute;
+    padding-top: 12px;
+    padding-left: 20px;
+}
 
 
 
